@@ -1,0 +1,4 @@
+.gitignore
+
+# Django files
+localsettings.py
